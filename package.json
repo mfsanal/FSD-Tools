@@ -1,0 +1,8 @@
+{
+  "name": "fsd-tools",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "Custom Functional Tools",
+  "author": "Fatih Şanal",
+  "license": "MIT"
+}
